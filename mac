@@ -134,6 +134,7 @@ brew "tmux"
 brew "neovim"
 brew "watchman"
 brew "zsh"
+brew "zplug"
 
 # Heroku
 brew "heroku/brew/heroku"
