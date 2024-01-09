@@ -132,10 +132,11 @@ brew "rcm"
 brew "the_silver_searcher"
 brew "tmux"
 brew "neovim"
-brew "pure"
 brew "watchman"
 brew "zsh"
 brew "zplug"
+brew "pure"
+brew "antidote"
 
 # Heroku
 brew "heroku/brew/heroku"
