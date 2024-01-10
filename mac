@@ -137,6 +137,7 @@ brew "zsh"
 brew "zplug"
 brew "pure"
 brew "antidote"
+brew "ripgrep"
 
 # Heroku
 brew "heroku/brew/heroku"
