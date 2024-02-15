@@ -156,6 +156,9 @@ cask "gpg-suite-no-mail"
 
 # Databases
 brew "redis", restart_service: :changed
+
+# Kubernetes
+brew install danielfoehrkn/switch/switch
 EOF
 
 fancy_echo "Update heroku binary ..."
