@@ -138,6 +138,7 @@ brew "zplug"
 brew "pure"
 brew "antidote"
 brew "ripgrep"
+brew "fd"
 
 # Heroku
 brew "heroku/brew/heroku"
