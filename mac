@@ -158,7 +158,7 @@ cask "gpg-suite-no-mail"
 brew "redis", restart_service: :changed
 
 # Kubernetes
-brew "danielfoehrkn/switch/switch"
+brew "kubectl"
 EOF
 
 fancy_echo "Update heroku binary ..."
