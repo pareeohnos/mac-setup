@@ -159,6 +159,9 @@ brew "redis", restart_service: :changed
 
 # Kubernetes
 brew "kubectl"
+
+# Other
+brew "font-hack-nerd-font"
 EOF
 
 fancy_echo "Update heroku binary ..."
