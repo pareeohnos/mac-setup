@@ -162,6 +162,7 @@ brew "kubectl"
 
 # Other
 brew "font-hack-nerd-font"
+brew "lazygit"
 EOF
 
 fancy_echo "Update heroku binary ..."
